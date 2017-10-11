@@ -2,7 +2,7 @@
 public class TestCommit {
 
 	public String greeting() {
-		return "Hello World";
+		return "Hello Change";
 	}
 
 	public static void main(String[] args) {
